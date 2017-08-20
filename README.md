@@ -1,2 +1,2 @@
 # vue-music
-Vue项目的音乐APP
+Vue音乐APP
